@@ -8,8 +8,8 @@
     <ProjectGuid>{5B5BF070-E09B-4A85-A17B-7A817D174D3B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XmlOperation.LiDongYang</RootNamespace>
-    <AssemblyName>XmlOperation.LiDongYang</AssemblyName>
+    <RootNamespace>XmlOperation</RootNamespace>
+    <AssemblyName>XmlOperation</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
