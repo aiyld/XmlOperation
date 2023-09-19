@@ -4,7 +4,7 @@
 using System.Collections.Generic;
 using System.Xml;
 
-namespace XmlOperation.LiDongYang
+namespace XmlOperation
 {
     public interface IXmlEditor
     {
