@@ -10,7 +10,7 @@ using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Xml;
 
-namespace XmlOperation.LiDongYang
+namespace XmlOperation
 {
     public class XmlUtils
     {
