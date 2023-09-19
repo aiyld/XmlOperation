@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Xml;
 
-namespace XmlOperation.LiDongYang
+namespace XmlOperation
 {
     /// <summary>
     /// Helper class to operate T type
