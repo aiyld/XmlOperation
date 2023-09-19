@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace XmlOperation.LiDongYang
+namespace XmlOperation
 {
     public class BaseTypeCollection
     {
