@@ -5,7 +5,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace XmlOperation.LiDongYang
+namespace XmlOperation
 {
     public static class XmlExtension
     {
