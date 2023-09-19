@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Xml;
 using System;
 
-namespace XmlOperation.LiDongYang
+namespace XmlOperation
 {
     public class XmlEditor : IXmlEditor
     {
